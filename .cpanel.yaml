@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    -export DEPLOYPATH=/home/harmiste/public_html/testingcpanel
